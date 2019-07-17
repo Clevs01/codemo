@@ -1,0 +1,84 @@
+body {
+   background-color: rgba(230,230,240,0.6);
+    color: #000;
+    font-size: 20px;
+}
+
+    
+.codemo {
+    color: rgba(85, 241, 12, 0.897);
+    font-weight: 800;
+}
+
+.org {
+    color: dodgerblue;
+}
+
+.free {
+    color: crimson;
+}
+
+dl dt {
+    color: deeppink;
+    font-size: 28px;
+}
+dl dd {
+    color: forestgreen;
+    font-size: 22px;
+}
+*/
+table#default td, table#default th{
+    border: 0;
+}
+.navbar {
+    background-color: rgba(230,230,240,0.6);
+}
+.carousel-item img {
+    border: 10px solid purple;
+    border-radius: 15px;
+}
+.carousel-caption h3 {
+    background: rgba(0,0,0,0.95);
+    color: #fdfdfe;
+    border: 3px solid #fff;
+    border-radius: 30px;
+}
+
+
+/* =====================================================================
+    Styling the developer image
+========================================================================
+*/
+
+.dev-img {
+    border: 2px solid cyan;
+    border-radius: 40%;
+}
+.phone a {
+    font-size: 22px;
+    font-weight: 900;
+}
+.phone a {
+    color: ivory;
+}
+.phone a:hover {
+    color: dodgerblue;
+}
+.sup {
+    font-size: 22px;
+    font-weight: 900;
+    color: aqua !important;
+}
+.dev {
+    color: dodgerblue;
+    font-size: 1.3em;
+    font-weight: 800;
+}
+.navbar .nav-link, .navbar .dropdown {
+    color:royalblue;
+}
+
+.navbar .navbar-toggler-icon {
+    color: red;
+    background: red;
+}
